@@ -37,3 +37,5 @@ To install PixelPalette, use the following command:
 
 ```bash
 pip install pixel-palette
+
+(Im Noob dev)
